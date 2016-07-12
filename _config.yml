@@ -7,5 +7,5 @@ url: "http://blog.zhaoliming.net"
 github_username:  zlmzju
 
 # Build settings
-markdown: redcarpet
+markdown: kramdown
 permalink: pretty
