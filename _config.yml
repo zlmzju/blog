@@ -1,6 +1,7 @@
 # Site settings
 title: liming's blog
 email: zlmzju@gmail.com
+description: "Write and Share."
 baseurl: ""
 url: "http://blog.zhaoliming.net"
 github_username:  zlmzju
