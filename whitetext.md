@@ -6,6 +6,8 @@ permalink: /whitetext
 
 <font color="#ffffff">
 
+```
+
 	There's a calm surrender to the rush of day
 	When the heat of a rolling wind can be turned away
 	An enchanted moment, and it sees me through
@@ -45,4 +47,5 @@ permalink: /whitetext
 	It's en  gh to make kings and vagabonds
 	Believe the very best
 
+```
 </font>
