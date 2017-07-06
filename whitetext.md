@@ -4,10 +4,6 @@ title: Can You Feel The Love Tonight
 permalink: /whitetext
 ---
 
-<!--
-I can’t, and won’t ever be able to, get enough of you.
---!>
-
 <font color="#ffffff">
 
 <p>There's a calm surrender to the rush of day </p>
