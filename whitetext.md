@@ -5,7 +5,7 @@ permalink: /whitetext
 ---
 
 ```
-For Liana,
+Honey bunny,
 	There's a calm surrender to the rush of day
 	When the heat of a rolling wind can be turned away
 	An enchanted moment, and it sees me through
@@ -38,5 +38,4 @@ For Liana,
 
 	It's en  gh to make kings and vagabonds
 	Believe the very best
-				-- Liming
 ```
