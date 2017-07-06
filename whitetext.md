@@ -6,7 +6,6 @@ permalink: /whitetext
 
 <!--
 I can’t, and won’t ever be able to, get enough of you.
-It's wonderful to have you 
 --!>
 
 <font color="#ffffff">
