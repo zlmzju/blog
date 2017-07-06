@@ -3,12 +3,12 @@ layout: blank
 title: Can You Feel The Love Tonight
 permalink: /whitetext
 ---
-
 <!--
 I can’t, and won’t ever be able to, get enough of you.
 It's wonderful to have you 
 --!>
 
+<font color="#ffffff">
 There's a calm surrender to the rush of day
 When the heat of a rolling wind can be turned away
 An enchanted moment, and it sees me through
@@ -41,3 +41,4 @@ Believe the ver  best
 
 It's en  gh to make kings and vagabonds
 Believe the very best
+</font>
