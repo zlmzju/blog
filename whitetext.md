@@ -1,5 +1,7 @@
 ---
 layout: blank
+title: Can You Feel The Love Tonight
+permalink: /whitetext
 ---
 
 <!--
