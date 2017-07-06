@@ -10,42 +10,42 @@ I can’t, and won’t ever be able to, get enough of you.
 
 <font color="#ffffff">
 
-There's a calm surrender to the rush of day  <p>
-When the heat of a rolling wind can be turned away  <p>
-An enchanted moment, and it sees me through  <p>
- t's enough for this restless warrior just to be with you  <p>
+<p>There's a calm surrender to the rush of day </p>
+<p>When the heat of a rolling wind can be turned away </p>
+<p>An enchanted moment, and it sees me through </p>
+<p> t's enough for this restless warrior just to be with you </p>
 
 
-And can you feel the love tonight?  <p>
-I  is where we are  <p>
-It s enough for this wide-eyed wanderer  <p>
-That we got thi  far  <p>
+<p>And can you feel the love tonight?  </p>
+<p>I  is where we are </p>
+<p>It s enough for this wide-eyed wanderer </p>
+<p>That we got thi  far </p>
 
 
-And can you feel the love tonight?  <p>
-Ho  it's laid to rest  <p>
-It's en ugh to make kings a d vagabon s  <p>
-B lieve the ve y best  <p>
+<p>And can you feel the love tonight? </p>
+<p>Ho  it's laid to rest </p>
+<p>It's en ugh to make kings a d vagabon s </p>
+<p>B lieve the ve y best </p>
 
 
-There's a time  or everyone if they only learn  <p>
-That the twisting kaleidoscope moves us all in t rn  <p>
-There's a rhyme and reason to the wi d outdoors  <p>
-When the heart of this s ar-cr ssed voyager beats in time with yours <p>
+<p>There's a time  or everyone if they only learn </p>
+<p>That the twisting kaleidoscope moves us all in t rn </p>
+<p>There's a rhyme and reason to the wi d outdoors </p>
+<p>When the heart of this s ar-cr ssed voyager beats in time with yours</p>
 
 
-And can you feel the love tonig t? <p>
-It is where we  re <p>
-It's enough for this wide-eyed wanderer <p>
-That we got this far <p>
+<p>And can you feel the love tonig t? </p>
+<p>It is where we  re</p>
+<p>It's enough for this wide-eyed wanderer</p>
+<p>That we got this far</p>
 
 
-And can you feel the love tonight? <p>
-How it's laid to rest <p>
-It's enough to make kings and  agabonds <p>
-Believe the ver  best <p>
+<p>And can you feel the love tonight?</p>
+<p>How it's laid to rest</p>
+<p>It's enough to make kings and  agabonds</p>
+<p>Believe the ver  best</p>
 
 
-It's en  gh to make kings and vagabonds <p>
-Believe the very best <p>
+<p>It's en  gh to make kings and vagabonds</p>
+<p>Believe the very best</p>
 </font>
