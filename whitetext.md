@@ -44,7 +44,7 @@ permalink: /whitetext
 <p>And can you feel the love tonight?</p>
 <p>How it's laid to rest</p>
 <p>It's enough to make kings and  agabonds</p>
-<p>Believe the ver  best</p>
+<p>B lieve the ver  best</p>
 
 <p> </p>
 
