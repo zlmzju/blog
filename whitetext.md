@@ -4,8 +4,6 @@ title: Can You Feel The Love Tonight
 permalink: /whitetext
 ---
 
-<font color="#ffffff">
-
 ```
 
 	There's a calm surrender to the rush of day
@@ -48,4 +46,3 @@ permalink: /whitetext
 	Believe the very best
 
 ```
-</font>
