@@ -4,6 +4,8 @@ title: Can You Feel The Love Tonight
 permalink: /whitetext
 ---
 
+<font color="#ffffff">
+
 ```
 Honey bunny,
 	There's a calm surrender to the rush of day
@@ -39,3 +41,5 @@ Honey bunny,
 	It's en  gh to make kings and vagabonds
 	Believe the very best
 ```
+
+</font>
